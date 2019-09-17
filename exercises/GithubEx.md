@@ -3,13 +3,13 @@
 
 2. Fork my this repo
 
-![alt text](imgs/G1.png "Click Fork")
+![alt text](../imgs/G1.png "Click Fork")
 
 
 3. Clone your repo in your profile
 
 
-![alt text](imgs/G2.png "Clone the repository")
+![alt text](../imgs/G2.png "Clone the repository")
 
 
 4. Change something, create a file, whatever you want

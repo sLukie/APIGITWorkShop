@@ -18,8 +18,8 @@ Everytime you use an API from a website like facebook, amazon, twitter, etc you 
 
  # Access Github API
 
- 1. [Get the Access Toke](2.md)
- 2. [Get data](3.md)
+ 1. [Get the Access Toke](exercises/APIEx2.md)
+ 2. [Get data](exercises/APIEx3.md)
 
     
 

@@ -53,6 +53,6 @@ Understanding the most import commands for use
 [There is more commands](https://github.github.com/training-kit/downloads/github-git-cheat-sheet.pdf)
 for see the status of the repo, deletes commits, branch, repos etc.
     
-# [Exercise ](1.md)
+# [Exercise ](exercises/GithubEx.md)
 
 
